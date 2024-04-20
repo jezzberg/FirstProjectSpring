@@ -46,12 +46,5 @@ This is the main class of the Spring Boot application. It contains the `main` me
 
 ## Usage
 
-After setting up the project, you can use the API endpoints defined in `PersonController.java` to perform CRUD operations on person data.
+After setting up the project, you can use the API endpoints defined in `PersonController.java` to perform CRUD operations on person data. I personally tested it on postman.
 
-## Contributing
-
-Contributions are welcome! Please follow the standard GitHub flow (fork, branch, pull request) when contributing to this project.
-
-## License
-
-[License Name] - [License Description]
